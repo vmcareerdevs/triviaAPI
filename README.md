@@ -1,1 +1,1 @@
-Cohort 16 Demo files
+This is my careerdevs capstone project, a trivia game that utilizes an API to generate trivia questions.
